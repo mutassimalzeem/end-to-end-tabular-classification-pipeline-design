@@ -1,4 +1,4 @@
-# 🚀 Spaceship Titanic — End-to-End Tabular Classification Pipeline Design
+# 🚀 End-to-End Tabular Classification Pipeline Design
 
 <p align="center">
   <img src="assets/pipeline_overview.svg" alt="Spaceship Titanic ML Pipeline" width="100%">
