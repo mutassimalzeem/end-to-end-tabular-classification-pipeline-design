@@ -1,7 +1,7 @@
 # 🚀 End-to-End Tabular Classification Pipeline Design
 
 <p align="center">
-  <img src="assets/pipeline_overview.svg" alt="Spaceship Titanic ML Pipeline" width="100%">
+  <img src="assets/pipeline_overview.svg" alt="ML Classification Pipeline" width="100%">
 </p>
 
 <p align="center">
