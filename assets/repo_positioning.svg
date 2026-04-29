@@ -1,0 +1,23 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="500" rx="28" fill="#0B1120"/>
+<text x="60" y="70" fill="#E5E7EB" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="800">From Notebook to Engineering Case Study</text>
+<text x="60" y="105" fill="#94A3B8" font-family="Inter,Segoe UI,Arial" font-size="18">The goal is not “another Kaggle notebook”; the goal is showing how you think like an ML engineer.</text>
+
+<g font-family="Inter,Segoe UI,Arial">
+  <rect x="80" y="160" width="440" height="245" rx="24" fill="#111827" stroke="#334155"/>
+  <text x="120" y="210" fill="#F87171" font-size="24" font-weight="800">Random Competition Notebook</text>
+  <text x="120" y="255" fill="#CBD5E1" font-size="18">• Code-only workflow</text>
+  <text x="120" y="292" fill="#CBD5E1" font-size="18">• Metrics without reasoning</text>
+  <text x="120" y="329" fill="#CBD5E1" font-size="18">• Hard to reuse or explain</text>
+  <text x="120" y="366" fill="#CBD5E1" font-size="18">• Weak recruiter signal</text>
+
+  <rect x="680" y="160" width="440" height="245" rx="24" fill="#111827" stroke="#334155"/>
+  <text x="720" y="210" fill="#34D399" font-size="24" font-weight="800">Portfolio-Grade ML Repo</text>
+  <text x="720" y="255" fill="#CBD5E1" font-size="18">• Clear problem framing</text>
+  <text x="720" y="292" fill="#CBD5E1" font-size="18">• Reusable pipeline design</text>
+  <text x="720" y="329" fill="#CBD5E1" font-size="18">• Feature-store style thinking</text>
+  <text x="720" y="366" fill="#CBD5E1" font-size="18">• Production-minded reflection</text>
+</g>
+<path d="M560 280 H635" stroke="#38BDF8" stroke-width="5" stroke-linecap="round"/>
+<path d="M635 280 L615 265 V295 Z" fill="#38BDF8"/>
+</svg>
